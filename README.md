@@ -1,5 +1,18 @@
 # Learning-js
 
+These are the slides, resources, and material that go along with a book-club
+style walk through of some awesome learning javascript material.
+
+Majore Resources:
+
+"Programming JavaScript Applications", Eric Elliot
+[free online](https://ericelliottjs.com/product/programming-javascript-applications-paper-ebook-bundle/)
+
+
+
+Below is the standard fare...
+------------
+
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
 
